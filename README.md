@@ -1,4 +1,4 @@
-# nginx-webmin
+# nginx-webmin v1.0
 An updated and optimized Nginx Module for Webmin.
 
 Tested on Webmin v1.900 and NginX v1.14.0
