@@ -21,6 +21,9 @@ Tested on Webmin v1.900 and NginX v1.14.0
 <br>
 <br>Click 'Install Module'
 <br>
+<br>
+<br>
+<br>
 Credit to the original Author:
-
+<br>
 http://www.webmin.com/cgi-bin/search_third.cgi?search=nginx
