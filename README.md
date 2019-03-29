@@ -9,5 +9,12 @@ https://www.justindhoffman.com/project/nginx-webmin-module
 
 I have updated it and optimized a few of it's settings for a better user experience.
 
+Features:
+
+Full text-area editing on config files.
+Ability to setup and maintain virtual servers.
+Maintain nginx configuration.
+Start, reload, and stop server.
+
 Enjoy.
 
