@@ -1,5 +1,5 @@
 # nginx-webmin
-Updated NginX Webserver Module for Webmin
+Updated NginX Webserver Module for Webmin v1.0
 
 This is an updated and better optimized Webmin Control Panel for the Nginx Webserver.
 
