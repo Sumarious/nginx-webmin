@@ -1,15 +1,9 @@
 # nginx-webmin
-Updated NginX Webserver Module for Webmin v1.0
+An updated and optimized Nginx Module for Webmin.
 
-This is an updated and better optimized Webmin Control Panel for the Nginx Webserver.
+Tested on Webmin v1.900 and NginX v1.14.0
 
-The original webmin module was developed by Justin D Hoffman.
-
-https://www.justindhoffman.com/project/nginx-webmin-module
-
-I have updated it and optimized a few of it's settings for a better user experience.
-
-Features:
+<b>Features:</B>
 
 Full text-area editing on config files.
 
@@ -19,5 +13,11 @@ Maintain nginx configuration.
 
 Start, reload, and stop server.
 
-Enjoy.
 
+
+
+
+
+Credit to the original Author:
+
+http://www.webmin.com/cgi-bin/search_third.cgi?search=nginx
