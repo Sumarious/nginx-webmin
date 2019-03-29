@@ -17,7 +17,7 @@ Tested on Webmin v1.900 and NginX v1.14.0
 <br>Webmin-->Webmin Configuration-->Webmin Modules
 <br>
 <br> Select to install from HTTP and enter the following URL:
-<br>https://github.com/Sumarious/nginx-webmin/blob/master/nginx.wbm.gz
+<br>https://github.com/Sumarious/nginx-webmin/raw/master/nginx.wbm.gz
 <br>
 <br>Click 'Install Module'
 <br>
